@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<persistence>
+	<persistence-unit name="AgendamentoEmailDs">
+			<jta-data-source>java:/AgendamentoEmailDs</jta-data-source>
+	</persistence-unit>
+</persistence>
